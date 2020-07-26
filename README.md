@@ -14,8 +14,11 @@ The code provided here reproduces some of the figures in the Adaptive Dynamics l
 In this framework, we first compute the invasion fitness function for the system and then analyze parameter regions of coexistence through numerical simulations.
 
 #### PDE: 
-In this framework, we use analyze the conditions which lead to Turing instability for the system which in turn captures evolutionary branching.
+In this framework, we use analyze the conditions that lead to Turing instability for the system which in turn captures evolutionary branching.
+
 [1] Génieys, S., Volpert, V., & Auger, P. (2006). Adaptive dynamics: modelling Darwin's divergence principle. Comptes Rendus Biologies, 329(11), 876-879.
+
+Equation: <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\partial&space;f}{\partial&space;x}&space;(t,&space;x)&space;-d\Delta&space;f(t,&space;x)&space;=&space;af(t,&space;x)K&space;-&space;C(f)(t,&space;x)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;f}{\partial&space;x}&space;(t,&space;x)&space;-d\Delta&space;f(t,&space;x)&space;=&space;af(t,&space;x)K&space;-&space;C(f)(t,&space;x)" title="\frac{\partial f}{\partial x} (t, x) -d\Delta f(t, x) = af(t, x)K - C(f)(t, x)" /></a>
 
 
 
