@@ -20,8 +20,14 @@ In this framework, we use analyze the conditions that lead to Turing instability
 
 Equation:
 
-![equation](https://latex.codecogs.com/gif.latex?\inline&space;\large&space;\frac{\partial&space;f}{\partial&space;x}&space;(t,&space;x)&space;-d\Delta&space;f(t,&space;x)&space;=&space;af(t,&space;x)K&space;-&space;C(f)(t,&space;x)). The term ![equation](https://latex.codecogs.com/gif.latex?\inline&space;\large&space;af(t,&space;x)K&space;-&space;C(f)(t,&space;x))) comes from the
-logistic equation, where a is a proliferation coefficient and K the limiting capacity of the environment. The operator ![equation](https://latex.codecogs.com/gif.latex?\inline&space;\large&space;C(f)(t,&space;x)&space;=&space;\int_\Omega&space;\phi(x-x')f(t,x')dx') describes a degenerate competition. It means that a morphology x competes with all the other morphologies x' andthe function ![equation](https://latex.codecogs.com/gif.latex?\inline&space;\large&space;\phi(x-x')) describes the intensity of this competition.
+![equation](https://latex.codecogs.com/gif.latex?\inline&space;\large&space;\frac{\partial&space;f}{\partial&space;x}&space;(t,&space;x)&space;-d\Delta&space;f(t,&space;x)&space;=&space;af(t,&space;x)K&space;-&space;C(f)(t,&space;x)). 
+
+The term ![equation](https://latex.codecogs.com/gif.latex?\inline&space;\large&space;af(t,&space;x)K&space;-&space;C(f)(t,&space;x))) comes from the
+logistic equation, where a is a proliferation coefficient and K the limiting capacity of the environment.
+
+The operator ![equation](https://latex.codecogs.com/gif.latex?\inline&space;\large&space;C(f)(t,&space;x)&space;=&space;\int_\Omega&space;\phi(x-x')f(t,x')dx') describes a degenerate competition. 
+
+It means that a morphology x competes with all the other morphologies x' andthe function ![equation](https://latex.codecogs.com/gif.latex?\inline&space;\large&space;\phi(x-x')) describes the intensity of this competition.
 
 
 
