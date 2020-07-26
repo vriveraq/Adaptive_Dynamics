@@ -6,8 +6,15 @@ Adaptive Dynamics studies the effect of small changes (mutations) in the populat
 
 Our main goal is to investigate conditions in which coexistence is achieved since this has been shown to have important effects in how disease persists or dies out in an ecological system. 
 
-The code provided here reproduces some of the figures in the Adaptive Dynamics literature were the conditions for coexistence were found. 
+The code provided here reproduces some of the figures in the Adaptive Dynamics literature were the conditions for coexistence were found. They both rely in studying the stability of ordinary  (ODE) and partial (PDE) differential frameworks. 
 
-List of references:
+## List of references:
+
+### ODE: In this framework, we first compute the invasion fitness function for the system and then analyze parameter regions of coexistence through numerical simulations.
+
+### PDE: In this framework, we use analyze the conditions which lead to Turing instability for the system. 
+
+
+
 
 
