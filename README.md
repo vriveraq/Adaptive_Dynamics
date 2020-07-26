@@ -19,7 +19,7 @@ In this framework, we use analyze the conditions that lead to Turing instability
 [1] Génieys, S., Volpert, V., & Auger, P. (2006). Adaptive dynamics: modelling Darwin's divergence principle. Comptes Rendus Biologies, 329(11), 876-879.
 
 Equation:
-<img src="https://latex.codecogs.com/pdf.latex?\inline&space;\LARGE&space;\frac{\partial&space;f}{\partial&space;x}&space;(t,&space;x)&space;-d\Delta&space;f(t,&space;x)&space;=&space;af(t,&space;x)K&space;-&space;C(f)(t,&space;x)" title="\LARGE \frac{\partial f}{\partial x} (t, x) -d\Delta f(t, x) = af(t, x)K - C(f)(t, x)" />
+![equation](https://latex.codecogs.com/gif.latex?\inline&space;\LARGE&space;\frac{\partial&space;f}{\partial&space;x}&space;(t,&space;x)&space;-d\Delta&space;f(t,&space;x)&space;=&space;af(t,&space;x)K&space;-&space;C(f)(t,&space;x))
 
 
 
