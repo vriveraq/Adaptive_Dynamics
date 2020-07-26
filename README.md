@@ -10,9 +10,12 @@ The code provided here reproduces some of the figures in the Adaptive Dynamics l
 
 ## List of references:
 
-#### ODE: In this framework, we first compute the invasion fitness function for the system and then analyze parameter regions of coexistence through numerical simulations.
+#### ODE: 
+In this framework, we first compute the invasion fitness function for the system and then analyze parameter regions of coexistence through numerical simulations.
 
-#### PDE: In this framework, we use analyze the conditions which lead to Turing instability for the system. 
+#### PDE: 
+In this framework, we use analyze the conditions which lead to Turing instability for the system which in turn captures evolutionary branching.
+[1] Génieys, S., Volpert, V., & Auger, P. (2006). Adaptive dynamics: modelling Darwin's divergence principle. Comptes Rendus Biologies, 329(11), 876-879.
 
 
 
